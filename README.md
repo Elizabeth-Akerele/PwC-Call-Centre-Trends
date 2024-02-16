@@ -24,4 +24,4 @@ These Key Performance Indicators (KPIs) enable stakeholders to make informed de
 ## Recommendations
 - Regular training should be leveraged for the agents and successful agents should be provided with incentives to enhance efficiency.
 - Procedures to reduce abandoned calls and maximizing staffing during high volume calls.
-- Improving issue solving methods and enquiring for feedback from the customers concerning issue resolution and their suggestion.
+- Enhancing problem-solving techniques and obtaining feedback from customers on solutions and recommendations.
