@@ -15,3 +15,13 @@ These Key Performance Indicators (KPIs) enable stakeholders to make informed de
 ## Report
 
 ![](Call_report.png)
+
+## Insights
+- Call Analysis: The dashboard divulges that the Call Centre Received 5000 calls and 4054 calls were answered. Regardless, the 946 unanswered calls requires attention and it highlights improvement needed in minimizing high-traffic times and improving systems for resolving issues.
+- Agent Performance: Eight agents are assigned to receiving the calls and seeking the high-performance agents will enable focused initiatives for training and recognition.
+- Customer Satisfaction: The average rating for the Customer Satisfaction is 3.40 out of 5.0, there is need for improvement despite and increased quality despite this rating.
+
+## Recommendations
+- Regular training should be leveraged for the agents and successful agents should be provided with incentives to enhance efficiency.
+- Procedures to reduce abandoned calls and maximizing staffing during high volume calls.
+- Improving issue solving methods and enquiring for feedback from the customers concerning issue resolution and their suggestion.
